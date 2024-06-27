@@ -18,7 +18,7 @@ Once you git clone this code you will start the code and the first thing that wi
 
 The Functions exists in the file (function.py)
 
-First function = def passwordGenerator(length) - this Function checks your passwords length.
+First Function = def passwordGenerator(length) - This Function generates your passwords length.
 
 2nd Function = def safe(safepassword) - This function saves your password.
 
